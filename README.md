@@ -31,3 +31,5 @@ docker run --rm -p 127.0.0.1:5000:5000 devops-course:1.0.0
 Or `docker compose up --build` (do not run both on port 5000).
 
 This is a learning application, not production hardened. The sample CI tests Python only and does not deploy to each student's private laptop.
+
+Workshop completed locally.
